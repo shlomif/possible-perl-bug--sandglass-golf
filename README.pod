@@ -2,9 +2,9 @@
 
 =head1 ABOUT
 
-This is some Perl code that reproduces a bug in Perl. To run go over the source
-files (to make sure they do not contain anything nasty) and then run
-"sh driver.sh" .
+This is some Perl code that reproduces a bug in Perl. In order to run it,
+go over the source files (to make sure they do not contain anything nasty),
+and then run "sh driver.sh" .
 
 =head1 LICENSE
 
