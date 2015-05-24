@@ -1,4 +1,5 @@
-#!perl -naF//
+#!perl
+@F=(0..9,0);
 sub r{
     my($y,@x)=@_;
     map{
